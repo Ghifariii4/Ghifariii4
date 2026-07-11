@@ -33,14 +33,8 @@ Berikut adalah deretan teknologi, kerangka kerja, dan alat yang biasa saya gunak
 
 #### 🚀 Development & Frameworks
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/">
-    <img src="https://img.shields.io/badge/C%23_WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WinForms" />
-  </a>
   <a href="https://laravel.com">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  </a>
-  <a href="https://github.com/OracleEx/MaterialSkin">
-    <img src="https://img.shields.io/badge/MaterialSkin-2196F3?style=for-the-badge&logo=google&logoColor=white" alt="MaterialSkin" />
   </a>
 </p>
 
