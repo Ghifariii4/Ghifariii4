@@ -7,7 +7,7 @@
 Halo! Saya adalah seorang siswa yang bersemangat mendalami dunia rekayasa perangkat lunak, administrasi jaringan, dan keamanan siber. Berikut adalah beberapa hal menarik tentang saya:
 
 * **🏆 Prestasi:** Pemenang **Juara 1 Lomba Kompetensi Siswa (LKS)** Tingkat Wilayah 2025 bidang *IT Network System Administration*.
-* **🛡️ Keamanan Siber:** Sangat antusias dalam mendalami *Penetration Testing* dan aktif menyelesaikan tantangan *Capture The Flag* (CTF), terutama pada kategori **Pwn**, **Steganography**, dan **Reverse Engineering**.
+* **🛡️ Keamanan Siber:** Sangat antusias dalam mendalami *Penetration Testing* dan aktif menyelesaikan tantangan *Capture The Flag* (CTF), terutama pada kategori **Pwn**, **Cryptography**, dan **Reverse Engineering**.
 
 ---
 
