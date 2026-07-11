@@ -6,7 +6,7 @@
 
 Hello! I'm a student passionate about software engineering, network administration, and cybersecurity. Here are a few key highlights about me:
 
-* **🏆 Achievement:** **1st Place Winner** in the **Student Competency Competition (LKS)** at the Regional Level 2025 in *IT Network System Administration*.
+* **🏆 Achievement:** **1st Place Winner** in the **Student Competency Competition (LKS)** at the Regional Level 2025 and 2026 in *IT Network System Administration*.
 * **🛡️ Cybersecurity:** Highly enthusiastic about *Penetration Testing* and actively solving *Capture The Flag* (CTF) challenges, focusing on **Pwn**, **Cryptography**, and **Reverse Engineering**.
 
 ---
@@ -47,16 +47,6 @@ Here is the collection of technologies, frameworks, and tools that I regularly w
   </a>
   <a href="https://laravel.com">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  </a>
-</p>
-
-#### 🛡️ Cybersec & Debugging
-<p align="left">
-  <a href="https://github.com/Gallopsled/pwntools">
-    <img src="https://img.shields.io/badge/Pwntools-000000?style=for-the-badge&logo=python&logoColor=white" alt="Pwntools" />
-  </a>
-  <a href="https://sourceware.org/gdb/">
-    <img src="https://img.shields.io/badge/GDB-313B42?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
   </a>
 </p>
 
