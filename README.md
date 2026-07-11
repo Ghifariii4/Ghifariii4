@@ -67,7 +67,7 @@ Berikut adalah deretan teknologi, kerangka kerja, dan alat yang biasa saya gunak
 
 <p align="center">
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ghifariii4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmad's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Ghifariii4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmad's GitHub Stats" />
   </a>
 </p>
 
@@ -77,6 +77,6 @@ Berikut adalah deretan teknologi, kerangka kerja, dan alat yang biasa saya gunak
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
