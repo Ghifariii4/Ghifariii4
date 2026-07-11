@@ -32,9 +32,6 @@ Here is the collection of technologies, frameworks, and tools that I regularly w
   <a href="https://php.net">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   </a>
-  <a href="https://kotlinlang.org">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </a>
 </p>
 
 #### 🚀 Development & Frameworks
