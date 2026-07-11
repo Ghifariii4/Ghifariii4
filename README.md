@@ -53,6 +53,9 @@ Berikut adalah deretan teknologi, kerangka kerja, dan alat yang biasa saya gunak
 
 #### 🌐 Infrastructure & Networking
 <p align="left">
+  <a href="https://www.debian.org">
+    <img src="https://img.shields.io/badge/Debian_12-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian 12" />
+  </a>
   <a href="https://www.cisco.com">
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   </a>
