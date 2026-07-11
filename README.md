@@ -2,18 +2,18 @@
 
 ---
 
-### 🚀 Tentang Saya (About Me)
+### 🚀 About Me
 
-Halo! Saya adalah seorang siswa yang bersemangat mendalami dunia rekayasa perangkat lunak, administrasi jaringan, dan keamanan siber. Berikut adalah beberapa hal menarik tentang saya:
+Hello! I'm a student passionate about software engineering, network administration, and cybersecurity. Here are a few key highlights about me:
 
-* **🏆 Prestasi:** Pemenang **Juara 1 Lomba Kompetensi Siswa (LKS)** Tingkat Wilayah 2025 bidang *IT Network System Administration*.
-* **🛡️ Keamanan Siber:** Sangat antusias dalam mendalami *Penetration Testing* dan aktif menyelesaikan tantangan *Capture The Flag* (CTF), terutama pada kategori **Pwn**, **Cryptography**, dan **Reverse Engineering**.
+* **🏆 Achievement:** **1st Place Winner** in the **Student Competency Competition (LKS)** at the Regional Level 2025 in *IT Network System Administration*.
+* **🛡️ Cybersecurity:** Highly enthusiastic about *Penetration Testing* and actively solving *Capture The Flag* (CTF) challenges, focusing on **Pwn**, **Cryptography**, and **Reverse Engineering**.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-Berikut adalah deretan teknologi, kerangka kerja, dan alat yang biasa saya gunakan dalam proyek-proyek saya:
+Here is the collection of technologies, frameworks, and tools that I regularly work with:
 
 #### 💻 Programming Languages
 <p align="left">
