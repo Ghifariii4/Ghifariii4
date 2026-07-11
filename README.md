@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Siswa Kelas XI jurusan Rekayasa Perangkat Lunak (RPL) di SMKN 8 Jakarta</strong>
+  <strong>Siswa Kelas XII jurusan Rekayasa Perangkat Lunak (RPL) di SMKN 8 Jakarta</strong>
 </p>
 
 <p align="center">
@@ -24,8 +24,6 @@ Halo! Saya adalah seorang siswa yang bersemangat mendalami dunia rekayasa perang
 
 * **🏆 Prestasi:** Pemenang **Juara 1 Lomba Kompetensi Siswa (LKS)** Tingkat Wilayah 2025 bidang *IT Network System Administration*.
 * **🛡️ Keamanan Siber:** Sangat antusias dalam mendalami *Penetration Testing* dan aktif menyelesaikan tantangan *Capture The Flag* (CTF), terutama pada kategori **Pwn**, **Steganography**, dan **Reverse Engineering**.
-* **💡 Proyek Berjalan:** Sedang mengembangkan **"My TrackTime"**, proyek mikrokontroler berbasis **ESP32-C3** yang dirancang sebagai timer sekaligus pelacak barang pribadi.
-* **🎗️ Fun Fact:** Di samping mengelola server dan menulis baris kode, saya juga aktif mengabdi sebagai perwakilan anggota organisasi **Paskibra**!
 
 ---
 
