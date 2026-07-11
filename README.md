@@ -6,16 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>Siswa Kelas XII jurusan Rekayasa Perangkat Lunak (RPL) di SMKN 8 Jakarta</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ghifariii4">
-    <img src="https://img.shields.io/github/followers/Ghifariii4?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Tentang Saya (About Me)
