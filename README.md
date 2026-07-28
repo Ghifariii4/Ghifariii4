@@ -1,87 +1,77 @@
 <div align="center">
-  <br />
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ahmad+Ghifari;IT+Network+System+Administrator;Cybersecurity+%26+CTF+Enthusiast;Software+Developer&font=Plus+Jakarta+Sans&weight=700&size=38&center=true&width=800&height=60&color=CBA6F7&vCenter=true" alt="Header" />
+  <h1 align="center">⚡ Ghifariii4 ⚡</h1>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/LKS_Winner-1st_Place_(2025_%26_2026)-cba6f7?style=flat-square&logo=trophy&logoColor=white" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Focus-Network_Admin_%26_Security-89b4fa?style=flat-square&logo=shield&logoColor=white" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Location-Indonesia-a6e3a1?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=IT+Network+System+Administrator;1st+Place+LKS+IT+Network+System+Admin+(2025+%26+2026);Cybersecurity+%26+CTF+Specialist+(Pwn%2C+Crypto%2C+Rev)&font=Fira+Code&weight=600&size=20&center=true&width=650&height=40&color=CBA6F7&vCenter=true" alt="Typing Header" />
   </p>
+
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/Ghifariii4/count.svg" alt="Visitor Counter" />
+  </p>
+
+  <br />
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,debian,docker,nginx,bash,kali,py,cs,cpp,js,ts,php,react,nextjs,laravel,tailwind,git&perline=9" alt="My Skills" />
+    </a>
+  </p>
+
+  <br />
+
+  <p align="center">
+    <a href="mailto:ghifari@example.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Ghifariii4">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://discord.com">
+      <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  </p>
+
+  <br />
 </div>
 
-<br />
-
----
-
-### 🌐 Infrastructure & Networking
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Debian_12-313244?style=flat-square&logo=debian&logoColor=f38ba8" />
-  <img src="https://img.shields.io/badge/Linux-313244?style=flat-square&logo=linux&logoColor=f9e2af" />
-  <img src="https://img.shields.io/badge/Cisco-313244?style=flat-square&logo=cisco&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Windows_Server-313244?style=flat-square&logo=windows&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Docker-313244?style=flat-square&logo=docker&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Nginx-313244?style=flat-square&logo=nginx&logoColor=a6e3a1" />
-  <img src="https://img.shields.io/badge/Bash-313244?style=flat-square&logo=gnu-bash&logoColor=a6e3a1" />
-</p>
-
-### 💻 Languages & Frameworks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-313244?style=flat-square&logo=python&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/C%23-313244?style=flat-square&logo=csharp&logoColor=a6e3a1" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-313244?style=flat-square&logo=c%2B%2B&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/JavaScript-313244?style=flat-square&logo=javascript&logoColor=f9e2af" />
-  <img src="https://img.shields.io/badge/TypeScript-313244?style=flat-square&logo=typescript&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/PHP-313244?style=flat-square&logo=php&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/React-313244?style=flat-square&logo=react&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Next.js-313244?style=flat-square&logo=nextdotjs&logoColor=cdd6f4" />
-  <img src="https://img.shields.io/badge/Laravel-313244?style=flat-square&logo=laravel&logoColor=f38ba8" />
-</p>
-
-### 🛡️ Cybersecurity & CTF Toolkit
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-313244?style=flat-square&logo=kalilinux&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Ghidra-313244?style=flat-square&logo=ghidra&logoColor=f38ba8" />
-  <img src="https://img.shields.io/badge/Burp_Suite-313244?style=flat-square&logo=burpsuite&logoColor=fab387" />
-  <img src="https://img.shields.io/badge/Wireshark-313244?style=flat-square&logo=wireshark&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Pwntools-313244?style=flat-square&logo=gnu&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/Metasploit-313244?style=flat-square&logo=metasploit&logoColor=89b4fa" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 8px;" alt="Cyber GIF Left" />
+    </td>
+    <td width="36%" align="center" valign="middle">
+      <a href="https://github.com/Ghifariii4">
+        <img src="https://streak-stats.demolab.com/?user=Ghifariii4&theme=catppuccin_mocha&hide_border=true" width="100%" alt="Streak Stats" />
+      </a>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2b1f-45f6-b49f-84c4cd3b2373.gif" width="100%" style="border-radius: 8px;" alt="Cyber GIF Right" />
+    </td>
+  </tr>
+</table>
 
 <br />
-
----
-
-### 📊 Github Overview
 
 <p align="center">
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ghifariii4&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ghifariii4&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Top Languages" height="170" />
   </a>
 </p>
 
 <br />
 
----
-
-<div align="center">
-  <a href="mailto:ghifari@example.com">
-    <img src="https://img.shields.io/badge/Email-313244?style=flat-square&logo=gmail&logoColor=f38ba8" />
-  </a>
-  &nbsp;
+<p align="center">
   <a href="https://github.com/Ghifariii4">
-    <img src="https://img.shields.io/badge/GitHub-313244?style=flat-square&logo=github&logoColor=cdd6f4" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghifariii4&theme=catppuccin&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-313244?style=flat-square&logo=linkedin&logoColor=89b4fa" />
-  </a>
-</div>
+</p>
