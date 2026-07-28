@@ -2,12 +2,12 @@
   <h1 align="center">⚡ Ghifariii4 ⚡</h1>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=IT+Network+System+Administrator;1st+Place+LKS+IT+Network+System+Admin+(2025+%26+2026);Cybersecurity+%26+CTF+Specialist+(Pwn%2C+Crypto%2C+Rev)&font=Fira+Code&weight=600&size=20&center=true&width=650&height=40&color=CBA6F7&vCenter=true" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=IT+Network+System+Administrator;1st+Place+LKS+IT+Network+System+Admin+(2025+%26+2026);Cybersecurity+%26+CTF+Specialist+(Pwn%2C+Crypto%2C+Rev)&font=Fira+Code&weight=600&size=20&center=true&width=650&height=40&color=A855F7&vCenter=true" alt="Typing Header" />
   </p>
 
   <p align="center">
     <a href="https://github.com/Ghifariii4">
-      <img src="https://komarev.com/ghpvc/?username=Ghifariii4&color=cba6f7&style=for-the-badge&label=VIEWS" alt="Visitor Counter" />
+      <img src="https://komarev.com/ghpvc/?username=Ghifariii4&color=a855f7&style=for-the-badge&label=VIEWS" alt="Visitor Counter" />
     </a>
   </p>
 
@@ -23,16 +23,16 @@
 
   <p align="center">
     <a href="mailto:ghifari@example.com">
-      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/EMAIL-2E1065?style=for-the-badge&logo=gmail&logoColor=A855F7" />
     </a>
     <a href="https://github.com/Ghifariii4">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GITHUB-2E1065?style=for-the-badge&logo=github&logoColor=A855F7" />
     </a>
     <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LINKEDIN-2E1065?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
     </a>
     <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/badge/DISCORD-2E1065?style=for-the-badge&logo=discord&logoColor=A855F7" />
     </a>
   </p>
 
@@ -46,7 +46,7 @@
     </td>
     <td width="36%" align="center" valign="middle">
       <a href="https://github.com/Ghifariii4">
-        <img src="https://streak-stats.demolab.com/?user=Ghifariii4&theme=catppuccin_mocha&hide_border=true" width="100%" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=Ghifariii4&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=E9D5FF&sideLabels=A855F7&dates=94A3B8&hide_border=true" width="100%" alt="Streak Stats" />
       </a>
     </td>
     <td width="32%" align="center" valign="middle">
@@ -59,11 +59,11 @@
 
 <p align="center">
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ghifariii4&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ghifariii4&show_icons=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Top Languages" height="170" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&hide_border=true&count_private=true" alt="Top Languages" height="170" />
   </a>
 </p>
 
@@ -71,6 +71,6 @@
 
 <p align="center">
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghifariii4&theme=catppuccin&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghifariii4&bg_color=0D1117&color=A855F7&line=A855F7&point=E9D5FF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </p>
