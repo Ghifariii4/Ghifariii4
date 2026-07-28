@@ -180,6 +180,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
 </p>
 
-<p align="center">
-  <sub><i>"Security is not a product, but a process." - Bruce Schneier</i></sub>
-</p>
