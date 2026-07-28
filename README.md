@@ -41,16 +41,16 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="32%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 8px;" alt="Cyber GIF Left" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="130" alt="Charizard" />
     </td>
-    <td width="36%" align="center" valign="middle">
+    <td width="50%" align="center" valign="middle">
       <a href="https://github.com/Ghifariii4">
-        <img src="https://streak-stats.demolab.com/?user=Ghifariii4&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=E9D5FF&sideLabels=A855F7&dates=94A3B8&hide_border=true" width="100%" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=Ghifariii4&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=E9D5FF&sideLabels=A855F7&dates=94A3B8&hide_border=true" width="100%" alt="Streak Stats" />
       </a>
     </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2b1f-45f6-b49f-84c4cd3b2373.gif" width="100%" style="border-radius: 8px;" alt="Cyber GIF Right" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/6.gif" width="130" alt="Shiny Charizard" />
     </td>
   </tr>
 </table>
