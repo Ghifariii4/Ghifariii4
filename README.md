@@ -6,7 +6,9 @@
   </p>
 
   <p align="center">
-    <img src="https://profile-counter.glitch.me/Ghifariii4/count.svg" alt="Visitor Counter" />
+    <a href="https://github.com/Ghifariii4">
+      <img src="https://komarev.com/ghpvc/?username=Ghifariii4&color=cba6f7&style=for-the-badge&label=VIEWS" alt="Visitor Counter" />
+    </a>
   </p>
 
   <br />
@@ -23,15 +25,12 @@
     <a href="mailto:ghifari@example.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    &nbsp;
     <a href="https://github.com/Ghifariii4">
       <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    &nbsp;
     <a href="https://linkedin.com">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    &nbsp;
     <a href="https://discord.com">
       <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
@@ -60,11 +59,11 @@
 
 <p align="center">
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ghifariii4&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ghifariii4&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ghifariii4">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Top Languages" height="170" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Top Languages" height="170" />
   </a>
 </p>
 
