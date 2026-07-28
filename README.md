@@ -2,7 +2,7 @@
   <h1 align="center">⚡ Ghifariii4 ⚡</h1>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=IT+Network+System+Administrator;1st+Place+LKS+IT+Network+System+Admin+(2025+%26+2026);Cybersecurity+%26+CTF+Specialist+(Pwn%2C+Crypto%2C+Rev)&font=Fira+Code&weight=600&size=20&center=true&width=650&height=40&color=A855F7&vCenter=true" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=IT+Network+System+Administrator;Cybersecurity+%26+CTF+Enthusiast+%28Pwn%2C+Crypto%2C+Rev%29&font=Fira+Code&weight=600&size=20&center=true&width=650&height=40&color=A855F7&vCenter=true" alt="Typing Header" />
   </p>
 
   <p align="center">
@@ -22,18 +22,7 @@
   <br />
 
   <p align="center">
-    <a href="mailto:ghifari@example.com">
-      <img src="https://img.shields.io/badge/EMAIL-2E1065?style=for-the-badge&logo=gmail&logoColor=A855F7" />
-    </a>
-    <a href="https://github.com/Ghifariii4">
-      <img src="https://img.shields.io/badge/GITHUB-2E1065?style=for-the-badge&logo=github&logoColor=A855F7" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LINKEDIN-2E1065?style=for-the-badge&logo=linkedin&logoColor=A855F7" />
-    </a>
-    <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/DISCORD-2E1065?style=for-the-badge&logo=discord&logoColor=A855F7" />
-    </a>
+    <a href="mailto:ahmadghifari831@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2E1065?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>&nbsp;&nbsp;<a href="https://github.com/Ghifariii4"><img src="https://img.shields.io/badge/GITHUB-2E1065?style=for-the-badge&logo=github&logoColor=A855F7" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ahmadghifariid"><img src="https://img.shields.io/badge/LINKEDIN-2E1065?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/760521201381539900"><img src="https://img.shields.io/badge/DISCORD-2E1065?style=for-the-badge&logo=discord&logoColor=A855F7" /></a>
   </p>
 
   <br />
@@ -41,16 +30,16 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="130" alt="Charizard" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/131tNuGktpXGhy/giphy.gif" width="100%" style="border-radius: 10px;" alt="Cute Charizard 1" />
     </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <a href="https://github.com/Ghifariii4">
         <img src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=Ghifariii4&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=E9D5FF&sideLabels=A855F7&dates=94A3B8&hide_border=true" width="100%" alt="Streak Stats" />
       </a>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/6.gif" width="130" alt="Shiny Charizard" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif" width="100%" style="border-radius: 10px;" alt="Cute Charizard 2" />
     </td>
   </tr>
 </table>
