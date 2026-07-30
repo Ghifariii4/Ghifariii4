@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> Ahmad Ghifari </h1>
+  <h1 align="center">Hi there 👋</h1>
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=IT+Network+System+Administrator;Cybersecurity+%26+CTF+Enthusiast+%28Pwn%2C+Crypto%2C+Rev%29&font=Fira+Code&weight=600&size=20&center=true&width=650&height=40&color=A855F7&vCenter=true" alt="Typing Header" />
