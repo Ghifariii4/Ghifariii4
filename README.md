@@ -37,17 +37,3 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ghifariii4&show_icons=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ghifariii4&layout=compact&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&hide_border=true&count_private=true" alt="Top Languages" height="170" />
-    </td>
-  </tr>
-</table>
-
